@@ -14,4 +14,4 @@
   - Solidity (básico) ;
   - Javascript | HTML | Springboot (básico);
 
- ⚡ Objetivos: Continuar a desenvolver minhas habilidades em ciência de dados e explorar novas oportunidades na área de desenvolvimento.
+ ⚡ Objetivos: Continuar a desenvolver minhas habilidades em ciência de dados e explorar novas oportunidades na área de desenvolvimento de softwares.
