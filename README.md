@@ -1,6 +1,6 @@
 - 👋 Olá! Bem-vindo ao meu repositório de projetos pessoais. Aqui você encontrará uma seleção de projetos que desenvolvi para uso próprio ou como freelancer e posso compartilhá-los.
   
-- 🌱 Atualmente, sou estudante de Bacharelado em Sistemas de Informação. Estou aprofudando meu conhecimento em ciência de dados por meio de cursos e estudos online. Estou em busca de novas oportunidades como desenvolvedor ;
+- 🌱 Atualmente, sou estudante de Bacharelado em Sistemas de Informação. Estou aprofudando meu conhecimento em ciência de dados por meio de cursos e estudos online, também estou em busca de novas oportunidades como desenvolvedor ;
   
 - 📫 Como chegar até mim:
     - www.linkedin.com/in/eduardo-araújo-858a3122a ;
