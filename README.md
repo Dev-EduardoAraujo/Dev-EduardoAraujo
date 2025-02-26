@@ -6,7 +6,7 @@
     - www.linkedin.com/in/eduardo-araújo-858a3122a ;
     - deveduardoaraujoo@gmail.com ;
       
-- ⚙️ Sobre mim: Sou um desenvolverdor independente desde 2021 e durante 3 anos desenvolvi softwares pessoais e coletivos com foco em oportunidades nos mercados de Defi, Blockchain e apostas esportivas. Os quais, me proporcionaram os seguintes aprendizados :
+- ⚙️ Sobre mim: Sou um desenvolverdor independente desde 2021 e durante 4 anos desenvolvi softwares pessoais e coletivos com foco em oportunidades nos mercados de Defi, Blockchain e apostas esportivas. Os quais, me proporcionaram os seguintes aprendizados :
   - Trabalho em equipe ;
   - Capacidade de aprender o necessário para resolução de problemas ;
   - Python avançado ;
