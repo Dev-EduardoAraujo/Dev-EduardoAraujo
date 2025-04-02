@@ -13,6 +13,6 @@
   - SQL ;
   - Github ;
   - Solidity (básico) ;
-  - Javascript | HTML | Springboot (básico);
+  - Javascript | HTML | Bootstrap (básico);
 
  ⚡ Objetivos: Continuar a desenvolver minhas habilidades em ciência de dados e explorar novas oportunidades na área de desenvolvimento de softwares.
